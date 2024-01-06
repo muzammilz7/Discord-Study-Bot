@@ -27,11 +27,10 @@ To use the Discord Study Bot, follow these steps:
    npm start
 
 ## Commands 🤖
-!startsession <duration>: Start a study session with the specified duration.
-!joinsession: Join the active study session.
-!leavesession: Leave the active study session.
-!addtodo <task>: Add a task to your to-do list.
-!removetodo <index>: Remove a task from your to-do list.
-!todolist: View your current to-do list.
-!studystats: View statistics from the last study session.
-
+- !startsession <duration>: Start a study session with the specified duration.
+- !joinsession: Join the active study session.
+- !leavesession: Leave the active study session.
+- !addtodo <task>: Add a task to your to-do list.
+- !removetodo <index>: Remove a task from your to-do list.
+- !todolist: View your current to-do list.
+- !studystats: View statistics from the last study session.
