@@ -7,7 +7,7 @@ Discord Study Bot is a Discord bot designed to help users organize study session
 - **Study Sessions 📖:** Start study sessions, join existing sessions, and track study time.
 - **To-Do Lists ✅:** Manage your tasks with a to-do list that persists across sessions.
 - **Study Statistics 📊:** View statistics from completed study sessions.
-## Technologies Used
+## Technologies Used 💻
 
 - **Discord.js 🤖:** A powerful library for interacting with the Discord API and building Discord bots.
 - **SQLite3 🗃:️**A Node.js binding to SQLite, used for storing information about study sessions, to-do lists, and user sessions.
